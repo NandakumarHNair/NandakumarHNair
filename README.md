@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandakumarHNair
 - 👀 Interested in Software Developing
-- 🌱 Currently learning in 12th grade
+- 🌱 Currently learning in college
 - 📫 Reach me on nandakumarhnair@gmail.com
 
 <!---
